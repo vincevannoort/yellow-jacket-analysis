@@ -1,0 +1,16 @@
+/** add bulma, reference: https://bulma.io/documentation/ */
+@import '~bulma/bulma';
+
+/** add font-awesome, used by bulma */
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+
+/** general app styling */
+#app {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

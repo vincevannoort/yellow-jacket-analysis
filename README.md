@@ -1,4 +1,4 @@
-# yellow jacket analysis 🐝>
+# Yellow Jacket Analysis 🐝
 
 ## Project setup
 ```
